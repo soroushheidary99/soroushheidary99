@@ -3,7 +3,7 @@
 
 ## 🔎 About Me 
 - 🎓 M.S. [DataMining][AmirKabir University] (2022-Present)
-- 🧑🏻‍💻 NLP Engineer @ [Infercia]
+- 🧑🏻‍💻 NLP Engineer @ [Private Startup]
 - 🧑🏻‍💻 NeuroScience Enthusiast @ [personal Wanderings :D]
   
 
